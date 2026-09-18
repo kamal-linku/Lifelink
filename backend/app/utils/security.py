@@ -1,4 +1,4 @@
-﻿import hashlib
+import hashlib
 import hmac
 from datetime import datetime, timedelta
 import jwt

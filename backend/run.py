@@ -1,4 +1,4 @@
-﻿import uvicorn
+import uvicorn
 
 if __name__ == "__main__":
     print("[INFO] Starting LifeLink Backend on http://127.0.0.1:8000 ...")

@@ -1,4 +1,4 @@
-﻿import React from "react";
+import React from "react";
 import { Activity, Heart, ShieldAlert, PhoneCall, MapPin, Building2, Droplet, Truck, Pill } from "lucide-react";
 
 export function Navbar({ currentTab, setCurrentTab }) {

@@ -1,4 +1,4 @@
-﻿from typing import List, Dict, Any
+from typing import List, Dict, Any
 from sqlalchemy.orm import Session
 from app.models.resource import BloodBank, Hospital
 from app.models.inventory import BloodInventory

@@ -1,4 +1,4 @@
-﻿import React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { 
   AlertOctagon, HeartHandshake, Droplet, Building2, 
   Truck, Pill, Users, ShieldAlert, PhoneCall, ArrowRight, Activity, MapPin 

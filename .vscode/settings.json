@@ -1,4 +1,4 @@
-﻿{
+{
   "python.analysis.extraPaths": ["${workspaceFolder}/backend"],
   "editor.formatOnSave": true,
   "files.exclude": {

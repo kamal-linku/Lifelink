@@ -1,4 +1,4 @@
-﻿import React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Droplet, Plus, Minus, CheckCircle2, RefreshCw, Layers, ShieldCheck } from "lucide-react";
 import { api } from "../services/api";
 

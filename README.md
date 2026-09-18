@@ -1,4 +1,4 @@
-﻿# LifeLink — Emergency Resource Coordination Platform
+# LifeLink — Emergency Resource Coordination Platform
 
 > *"Our problem is not simply finding a blood donor. The problem is coordinating the entire emergency response quickly."*
 

@@ -1,4 +1,4 @@
-﻿import React, { useEffect } from "react";
+import React, { useEffect } from "react";
 import { Bell, X, AlertTriangle, CheckCircle, ShieldAlert } from "lucide-react";
 
 export function LiveNotificationToast({ notification, onClose, onAction }) {

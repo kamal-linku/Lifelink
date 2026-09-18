@@ -1,4 +1,4 @@
-﻿import React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Truck, Phone, Navigation, ShieldCheck, CheckCircle2, Clock } from "lucide-react";
 import { api } from "../services/api";
 

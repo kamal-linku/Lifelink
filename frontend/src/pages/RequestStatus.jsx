@@ -1,4 +1,4 @@
-﻿import React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { 
   AlertOctagon, Phone, Navigation, CheckCircle2, 
   Clock, ShieldAlert, Sparkles, RefreshCw, Info, ExternalLink 

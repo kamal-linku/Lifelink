@@ -1,4 +1,4 @@
-﻿import React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Pill, Search, Clock, Phone, MapPin, AlertCircle, ShieldCheck } from "lucide-react";
 import { api } from "../services/api";
 

@@ -1,4 +1,4 @@
-﻿export class EmergencySocket {
+export class EmergencySocket {
   constructor(category = "requesters", clientId = "client_" + Math.random().toString(36).substring(2, 8)) {
     this.category = category;
     this.clientId = clientId;

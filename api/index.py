@@ -1,4 +1,4 @@
-﻿import sys
+import sys
 from pathlib import Path
 
 # Add backend directory to system path so that 'app' package imports work cleanly on Vercel

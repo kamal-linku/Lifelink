@@ -1,4 +1,4 @@
-﻿import os
+import os
 
 class Settings:
     PROJECT_NAME: str = "LifeLink - Emergency Resource Coordination Platform"

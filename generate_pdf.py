@@ -1,4 +1,4 @@
-﻿import sys
+import sys
 import os
 from datetime import datetime
 from reportlab.lib.pagesizes import letter

@@ -1,4 +1,4 @@
-﻿"""
+"""
 Medical Blood Component Compatibility Matrix.
 Note: LifeLink uses this for triage matching ranking, but final suitability
 remains with qualified blood bank and medical officers.
